@@ -14,9 +14,17 @@ Embraces transparency, and communication as a significant aspect of the teamwork
 
 ## Employment
 
+**Nexi Digital** / software engineer
+
+*03.2023 - NOW*
+
+*Stack: PHP, Azure, Docker, K8s*
+
+---
+
 **Boxdrop** / software engineer
 
-*07.2021 – NOW*
+*07.2021 – 02.2023*
 
 *Stack: PHP, GO, Docker, JS, MariaDB*
 
