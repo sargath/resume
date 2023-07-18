@@ -18,7 +18,7 @@ Embraces transparency, and communication as a significant aspect of the teamwork
 
 *03.2023 - NOW*
 
-*Stack: PHP, Azure, Docker, K8s*
+*Stack: PHP, Azure, Docker, Shopify
 
 ---
 
